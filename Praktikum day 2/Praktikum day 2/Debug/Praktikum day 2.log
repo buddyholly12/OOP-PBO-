@@ -1,0 +1,36 @@
+﻿Build started 8/28/2017 8:10:23 PM.
+     1>Project "C:\Users\Andreas Pc\Desktop\Praktikum day 2\Praktikum day 2\Praktikum day 2.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Praktikum day 2.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "part 2.cpp"
+         part 2.cpp
+     1>c:\users\andreas pc\desktop\praktikum day 2\praktikum day 2\part 2.cpp(25): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\andreas pc\desktop\praktikum day 2\praktikum day 2\part 2.cpp(26): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\andreas pc\desktop\praktikum day 2\praktikum day 2\part 2.cpp(38): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\andreas pc\desktop\praktikum day 2\praktikum day 2\part 2.cpp(45): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\andreas pc\desktop\praktikum day 2\praktikum day 2\part 2.cpp(95): warning C4101: 'h2' : unreferenced local variable
+     1>c:\users\andreas pc\desktop\praktikum day 2\praktikum day 2\part 2.cpp(95): warning C4101: 'def2' : unreferenced local variable
+     1>c:\users\andreas pc\desktop\praktikum day 2\praktikum day 2\part 2.cpp(95): warning C4101: 'a1' : unreferenced local variable
+     1>c:\users\andreas pc\desktop\praktikum day 2\praktikum day 2\part 2.cpp(95): warning C4101: 'h1' : unreferenced local variable
+     1>c:\users\andreas pc\desktop\praktikum day 2\praktikum day 2\part 2.cpp(96): warning C4101: 'name' : unreferenced local variable
+     1>c:\users\andreas pc\desktop\praktikum day 2\praktikum day 2\part 2.cpp(95): warning C4101: 'a2' : unreferenced local variable
+     1>c:\users\andreas pc\desktop\praktikum day 2\praktikum day 2\part 2.cpp(95): warning C4101: 'def1' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Andreas Pc\Desktop\Praktikum day 2\Debug\Praktikum day 2.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Praktikum day 2.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Andreas Pc\Desktop\Praktikum day 2\Debug\Praktikum day 2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Andreas Pc\Desktop\Praktikum day 2\Debug\Praktikum day 2.lib" /MACHINE:X86 "Debug\part 2.obj"
+     1>part 2.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+         Praktikum day 2.vcxproj -> C:\Users\Andreas Pc\Desktop\Praktikum day 2\Debug\Praktikum day 2.exe
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Andreas Pc\Desktop\Praktikum day 2\Debug\Praktikum day 2.exe;#1" /manifest "Debug\Praktikum day 2.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Debug\Praktikum day 2.unsuccessfulbuild".
+         Touching "Debug\Praktikum day 2.lastbuildstate".
+     1>Done Building Project "C:\Users\Andreas Pc\Desktop\Praktikum day 2\Praktikum day 2\Praktikum day 2.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.21
